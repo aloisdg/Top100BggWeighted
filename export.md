@@ -1,5 +1,5 @@
 | Rank | Name | Weight (rounded) | Weight | 
-|---|---|---|
+|---|---|---|---|
 | 1 | Gloomhaven | 3.89 |  3.888027562446167 |
 | 2 | Brass: Birmingham | 3.9 |  3.8986810551558753 |
 | 3 | Pandemic Legacy: Season 1 | 2.83 |  2.8323442136498516 |
